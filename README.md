@@ -1,3 +1,8 @@
+CAN SOMENONE FIX THIS BECOUSE ALL TIME SHOWING ERRORS
+
+
+
+
 local BanList = {}
 local BlacklistedPropList = {}
 local WhitelistedPropList = {}
